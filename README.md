@@ -12,6 +12,9 @@ Clean and explore bank customer data to prepare it for machine learning models
 
 # The OBJECTIVES
  - 1. Join & QA the data
+    * Import the data from both tabs in the "Bank_Churn_Messy" Excel file.
+    * Use a left join to join "Account_Info" to "Customer_Info" using the CustomerID column.
+    * Check for and remove duplicate rows and columns.
  - 2. Clean the data
  - 3. Explore feature relationships with customer churn
  - 4. Prepare the data for modeling 
